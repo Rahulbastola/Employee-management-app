@@ -1,0 +1,20 @@
+# Flutter
+**/.dart_tool/
+**/build/
+**/.idea/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+
+# Python / Django
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/db.sqlite3
+
+# Environment / secrets
+**/.env
+
+# OS files
+.DS_Store
+Thumbs.db
